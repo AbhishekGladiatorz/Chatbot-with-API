@@ -17,4 +17,7 @@ Chatbot-with-API to scan files and check the URL safeness
  
  `api = "enter your Key here"`
  
+ 
+ ###After entering key the API services / Modules to scan or validate website will be working 
+ 
  Have fun chatting with your assistant !
